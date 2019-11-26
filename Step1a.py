@@ -1,3 +1,4 @@
+#_*_ coding: utf-8 _*_
 print('To prosta gra liczbowa, musisz zgadnąć cyfrę od 0 do 10 masz tylo trzy pruby, Powodzenia !' )
 zgadłeś = int('7')
 for v in range(3):
@@ -8,5 +9,5 @@ for v in range(3):
     elif twoja_cyfra != zgadłeś:
         print('Nie zgadłeś sprubuj jeszcze raz')
 else:
-    print('Przykro mi wykożystałeś trzy szanse \nkoniec gry !')
+    print('Przykro mi wykorzystałeś trzy szanse \nkoniec gry !')
 
