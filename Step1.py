@@ -1,3 +1,3 @@
 print ('Hello \nWorld!')
-name = input("You name it's ? ")
+name = input("You name ? ")
 print('Hello ' + name)
